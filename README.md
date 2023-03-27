@@ -1,4 +1,4 @@
-# awesome-ai
+# Awesome AI
 收集优秀的AI开源库
 
 ## 菜单
